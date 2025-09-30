@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 85289723-b2d0-45fa-9f08-61e0069a8d9a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4c21abc7-2270-4bb6-9031-bafc38d9fa09
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 75466d41-d549-4d8e-8ee5-1d8a9ea3682d
+  name: 'Session 1: Organizing a Recitation Section'
+  pageRef: /pages/session-1-organizing-a-recitation-section-to-promote-student-learning
+  weight: 30
+- identifier: 84e63ce2-acd5-44b2-a71a-07e8f7a4f6ab
+  name: 'Session 2: Keeping Students Engaged'
+  pageRef: /pages/session-2-keeping-students-engaged
+  weight: 40
+- identifier: da029e60-7255-42f9-a3e6-0c8cb08973e8
+  name: 'Session 3: Creating an Inclusive Classroom'
+  pageRef: /pages/session-3-creating-an-inclusive-classroom
+  weight: 50
+- identifier: 16428e24-4dca-449a-86e6-790a4a249b63
+  name: 'Session 4: Providing Constructive, Equitable Feedback'
+  pageRef: /pages/session-4-providing-constructive-equitable-feedback
+  weight: 60
+- identifier: 010a645f-e0b6-465c-b6db-f538efd0b386
+  name: 'Session 5: How Students Learn'
+  pageRef: /pages/session-5-how-students-learn
+  weight: 70
+- identifier: ea0958e0-ce4b-47a4-bbe7-513988c9c464
+  name: 'Session 6: Supporting Our Students'
+  pageRef: /pages/session-6-supporting-our-students
+  weight: 80
+- identifier: 6230ba07-14cb-48b7-a27d-52cb58b21788
+  name: 'Session 7: Writing Effective Questions'
+  pageRef: /pages/session-7-writing-effective-questions
+  weight: 90
+- identifier: 220a96c6-754a-4a7e-926c-1fc6bc60d34c
+  name: 'Session 8: Making Material Relevant to Motivate Students'
+  pageRef: /pages/session-8-making-material-relevant-to-motivate-students
+  weight: 100
+- identifier: e83dd5df-bbd0-48d1-af36-e7be62a4bfc6
+  name: 'Session 9: Teaching students how to learn'
+  pageRef: /pages/session-9-teaching-students-how-to-learn
+  weight: 110
+- identifier: 542be5c3-5a44-4438-af15-9657197cc841
+  name: 'Session 10: Leveraging Your Teaching Experience for the Future'
+  pageRef: /pages/session-10-leveraging-your-teaching-experience-for-the-future
+  weight: 120

@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/7i5fpNGMMhA_transcript.pdf
 file_size: 41764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

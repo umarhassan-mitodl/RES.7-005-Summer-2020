@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/instructor-ta-agreement-form2.pdf
 file_size: 252191
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

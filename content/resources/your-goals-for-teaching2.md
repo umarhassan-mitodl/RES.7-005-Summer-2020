@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/your-goals-for-teaching2.pdf
 file_size: 15800
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
